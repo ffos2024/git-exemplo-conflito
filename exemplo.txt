@@ -1,1 +1,3 @@
 Fazendo a simulação para criar um conflito de merge
+
+echo "Conteúdo da Linha 2"
