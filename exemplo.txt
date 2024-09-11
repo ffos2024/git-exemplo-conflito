@@ -1,3 +1,4 @@
 Fazendo a simulação para criar um conflito de merge
 
 Conteúdo da Linha 3
+Conteúdo da Linha 2
